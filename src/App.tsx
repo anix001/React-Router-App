@@ -1,7 +1,9 @@
+import MainRoute from "./routes";
+
 const App = () => {
 
   return (
-    <h1>I am App.</h1>
+    <MainRoute/>
   );
 }
 
